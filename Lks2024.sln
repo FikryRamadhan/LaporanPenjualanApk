@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pertiwi", "pertiwi\pertiwi.csproj", "{3C7AB66E-0140-40C4-A8C3-4EE6A48F3F74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pertiwiApi", "pertiwiApi\pertiwiApi.csproj", "{67A1714E-3764-4138-B5DD-B4FAED815D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelolaGudang", "KelolaGudang\KelolaGudang.csproj", "{38937278-8F7C-4873-B560-4495E8579E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7AB66E-0140-40C4-A8C3-4EE6A48F3F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7AB66E-0140-40C4-A8C3-4EE6A48F3F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7AB66E-0140-40C4-A8C3-4EE6A48F3F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7AB66E-0140-40C4-A8C3-4EE6A48F3F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A1714E-3764-4138-B5DD-B4FAED815D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A1714E-3764-4138-B5DD-B4FAED815D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A1714E-3764-4138-B5DD-B4FAED815D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A1714E-3764-4138-B5DD-B4FAED815D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38937278-8F7C-4873-B560-4495E8579E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38937278-8F7C-4873-B560-4495E8579E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38937278-8F7C-4873-B560-4495E8579E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38937278-8F7C-4873-B560-4495E8579E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8031EB8B-B266-4C17-A74A-F289620D12D7}
+	EndGlobalSection
+EndGlobal
