@@ -1,2 +1,2 @@
 ﻿# Laporan Penjualan
-⌢欠汥汯ⵡ潴潫•਍# kelola-toko
+Halo Teman Teman Ini adalah project pertama saya menggunakan framework .NET Core Dimana Aplikasi Ini saya buat untuk Mempermudah dalam Laporan Penjualan. Dan Aplikasi ini saya buat dalam acara latihan untuk mengikuti lomba LKS tingkat Provinsi.
